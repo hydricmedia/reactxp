@@ -13,7 +13,7 @@ import Types = require('../common/Types');
 
 var _styles = {
     androidImage: {
-        fadeDuration: 0
+        // fadeDuration: 0
     }
 };
 
